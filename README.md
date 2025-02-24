@@ -30,7 +30,7 @@ I am a determined and energetic **Data Analyst** with experience in **SQL, Pytho
 ### 📊 Work Experience  
 #### **Data Analyst (Apr 2024 - Jul 2024)**  
 **Schaumburg Market Place - Schaumburg, IL**  
-- Created **interactive dashboards** in Tableau to analyze student enrollment trends  
+- Created **interactive dashboard** in Tableau to analyze student enrollment trends  
 - Developed **Knack database apps** with user-role-based access and views  
 - Automated data pipelines using **Python & knackpy** for transformation and integration  
 - Built **Power BI dashboards** with KPIs, custom tooltips, and DAX functions  
