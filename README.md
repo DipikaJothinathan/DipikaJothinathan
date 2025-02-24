@@ -1,5 +1,4 @@
 ## Hi! I am Dipika Jothinathan  
-
 **Data Analyst 📊 📈**  
 
 📍 Palatine, IL  
