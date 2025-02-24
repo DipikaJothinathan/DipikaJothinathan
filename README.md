@@ -65,7 +65,7 @@ I am a determined and energetic **Data Analyst** with experience in **SQL, Pytho
 - Delivered actionable recommendations to reduce churn and enhance retention strategies
 
 #### **Marketing Campaign** - [Marketing Campaign](https://github.com/DipikaJothinathan/Python/tree/main/Marketing%20Campaign)
-- Conducted exploratory data analysis using **Polars** and **Plotly** to assess user engagement, conversion rates, and retention rates
+- Conducted exploratory data analysis in **Python** using **Polars** and **Plotly** to assess user engagement, conversion rates, and retention rates
 - Tracked daily user activity to identify trends and behavioral patterns
 - Calculated and analyzed conversion and retention rates to measure marketing effectiveness
 - Identified key factors influencing conversions, such as language preference, to enhance targeting strategies
@@ -76,6 +76,11 @@ I am a determined and energetic **Data Analyst** with experience in **SQL, Pytho
 - Performed data cleaning and transformation using Tableau Prep Builder to ensure data accuracy
 - Designed interactive visualizations to compare game interests over time, by state, and across seasons
 - Leveraged historical data insights to showcase trends in sports popularity across different regions
+
+#### **World's Oldest Businesses** - [Oldest Business](https://github.com/DipikaJothinathan/SQL/tree/main/Oldest%20Businesses)
+- Analyzed characteristics enabling businesses to endure over long periods by uncovering patterns in the oldest businesses using **SQL**
+- Identified the oldest businesses on each continent and examined gaps where countries lack historical business data
+- Investigated business categories best suited for longevity using Exploratory Data Analysis
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### 🎓 Education  
