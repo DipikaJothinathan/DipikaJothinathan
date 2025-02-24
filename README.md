@@ -57,6 +57,13 @@ I am a determined and energetic **Data Analyst** with experience in **SQL, Pytho
 - Evaluated the impact of data plans and contract length on customer retention
 - Delivered actionable recommendations to reduce churn and enhance retention strategies
 
+#### **Bank Marketing Campaign** - [Bank Marketing](https://github.com/DipikaJothinathan/PowerBI/tree/main/Bank%20Marketing)
+- Developed a Power BI dashboard to analyze banking marketing campaign performance
+- Integrated and transformed data using Power Query and DAX for insights on client demographics
+- Analyzed campaign success rates and the impact of loans, credit defaults, and previous campaigns
+- Examined contact strategies by evaluating call frequency, method, and timing on customer responses
+- Visualized interest index trends over time and by state for strategic decision-making
+
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### 🎓 Education  
