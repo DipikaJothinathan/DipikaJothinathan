@@ -1,6 +1,6 @@
 # Dipika Jothinathan  
 
-**Data Analyst 📊 📈 **  
+**Data Analyst 📊 📈**  
 
 📍 Palatine, IL  
 📧 dipikajot@yahoo.com  
