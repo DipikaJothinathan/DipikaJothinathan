@@ -1,49 +1,54 @@
-## Hi there 👋 I'm Dipika!
-
+Dipika Jothinathan
 Data Analyst | Business Intelligence Analyst
 
-Driven data professional with a passion for uncovering insights and creating impactful visualizations. Skilled in transforming raw data into actionable intelligence using a variety of tools and techniques.
+📍 Palatine, IL
+📧 dipikajot@yahoo.com
+🔗 LinkedIn
+🔗 Tableau Public
+🔗 GitHub
 
-**Skills:**
+👋 About Me
+I am a determined and energetic Data Analyst with experience in SQL, Python, R, Power BI, Tableau, and Excel. My expertise includes data manipulation, visualization, and reporting, with a strong focus on delivering actionable insights to decision-makers.
 
-*   **Data Visualization:** Power BI, Tableau, MATLAB
-*   **Programming:** Python (pandas, numpy, matplotlib, seaborn, scikit-learn, knackpy), R (dplyr, tidyr, ggplot2), SQL, PERL
-*   **Databases:** Oracle SQL, Knack
-*   **Other:** MS Excel (Pivot Tables, Solver), Machine Learning (Regression, Clustering), Statistical Analysis
+🚀 What I'm Up To
+🔭 I’m currently working on enhancing my Power BI and Tableau visualization skills
+🌱 I’m currently learning advanced SQL techniques and machine learning models
+👯 I’m looking to collaborate on data analytics and visualization projects
+🤔 I’m looking for help with optimizing SQL queries and big data processing
+💬 Ask me about Power BI, SQL, Python, R, or data visualization
+📫 How to reach me: dipikajot@yahoo.com
+😄 Pronouns: She/Her
+⚡ Fun fact: I love solving puzzles and analyzing trends in real-world data!
+🛠️ Skills
+Databases: Oracle SQL, Knack
+Visualization Tools: Power BI, Tableau, MATLAB
+Python: pandas, numpy, matplotlib, seaborn, scikit-learn, knackpy
+R: dplyr, tidyr, ggplot2, DescTools, factoextra, and more
+Excel: Pivot tables, charts, Solver, and Data Analysis tools
+Machine Learning: Linear Regression, K-Means Clustering, Forecasting
+Version Control: GitHub
+📊 Work Experience
+Data Analyst (Jan 2024 - Aug 2024)
+Schaumburg Market Place - Schaumburg, IL
 
-**Currently:**
+Created interactive dashboards in Tableau to analyze student enrollment trends
+Developed Knack database apps with user-role-based access and views
+Automated data pipelines using Python & knackpy for transformation and integration
+Built Power BI dashboards with KPIs, custom tooltips, and DAX functions
+Led a team of interns in data analysis & visualization projects using SQL, R, and Power BI
+Business Analyst (Oct 2023 - Dec 2023)
+Schaumburg Market Place - Schaumburg, IL
 
-*   Actively seeking Data Analyst or Business Intelligence Analyst opportunities.
-*   Expanding knowledge in advanced machine learning techniques.
-
-**Experience Highlights:**
-
-*   **Data Analyst at Schaumburg Market Place:**  Developed interactive Tableau dashboards for enrollment trend analysis. Built Knack database apps and automated tasks using Python.  Created Power BI dashboards with DAX queries.
-*   **Business Analyst at Schaumburg Market Place:** Webpage development using Wix and creation of promotional videos and flyers using Canva.
-*   **CPU Verification Engineer Co-op at NVIDIA:** Implemented tests using PERL to simulate DVM Transactions.
-
-**Certifications:**
-
-*   Python Data Fundamentals (DataCamp)
-*   Tableau Fundamentals (DataCamp)
-*   Knack Foundation Level 1
-*   SQL Basic (HackerRank)
-*   Data Analytics and Database combo (IT Expert System, INC)
-
-**Connect with me:**
-
-*   [LinkedIn](link-to-linkedin)
-*   [Tableau Public](link-to-tableau)
-*   [GitHub](link-to-github)
-
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Developed engaging web pages using Wix
+Created promotional content using Canva
+Managed data entry and tracking for attendance and certification
+🎓 Education
+M.S. in Electrical and Computer Engineering - University of Illinois Chicago
+B.E. (Hons) in Electrical and Electronics Engineering - BITS Pilani, India
+📜 Certifications
+Python Data Fundamentals – DataCamp (Aug 2024)
+Tableau Fundamentals – DataCamp (Jul 2024)
+SQL Basic – HackerRank (May 2024)
+Knack Foundation Level 1 – Knack (May 2024)
+📈 Let's Connect!
+I'm actively seeking opportunities in data analysis, business intelligence, and reporting. Feel free to reach out!
