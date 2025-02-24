@@ -46,24 +46,23 @@ I am a determined and energetic **Data Analyst** with experience in **SQL, Pytho
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### 🧑‍💻 Projects
 #### **College Degrees** - [Major success](https://github.com/DipikaJothinathan/R/tree/main/College%20Degrees)
-- K-means clustering using R 
+- K-means clustering using **R** 
 - Analyzed salary trends across various undergraduate majors, focusing on starting and mid-career earnings
 - Identified the most financially rewarding fields
 
-#### **Customer Churn Analysis** - [Customer churn](https://github.com/DipikaJothinathan/Excel/tree/main/Customer%20Churn)
-- Conducted an in-depth analysis of churn trends for a telecom company using MS Excel
-- Identified the overall churn rate, with competitor influence as the primary driver
-- Uncovered key demographic insights, highlighting age groups most likely to churn
-- Evaluated the impact of data plans and contract length on customer retention
-- Delivered actionable recommendations to reduce churn and enhance retention strategies
-
 #### **Bank Marketing Campaign** - [Bank Marketing](https://github.com/DipikaJothinathan/PowerBI/tree/main/Bank%20Marketing)
-- Developed a Power BI dashboard to analyze banking marketing campaign performance
+- Developed a **Power BI** dashboard to analyze banking marketing campaign performance
 - Integrated and transformed data using Power Query and DAX for insights on client demographics
 - Analyzed campaign success rates and the impact of loans, credit defaults, and previous campaigns
 - Examined contact strategies by evaluating call frequency, method, and timing on customer responses
 - Visualized interest index trends over time and by state for strategic decision-making
 
+#### **Customer Churn Analysis** - [Customer churn](https://github.com/DipikaJothinathan/Excel/tree/main/Customer%20Churn)
+- Conducted an in-depth analysis of churn trends for a telecom company using **MS Excel**
+- Identified the overall churn rate, with competitor influence as the primary driver
+- Uncovered key demographic insights, highlighting age groups most likely to churn
+- Evaluated the impact of data plans and contract length on customer retention
+- Delivered actionable recommendations to reduce churn and enhance retention strategies
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### 🎓 Education  
