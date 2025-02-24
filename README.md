@@ -64,6 +64,13 @@ I am a determined and energetic **Data Analyst** with experience in **SQL, Pytho
 - Evaluated the impact of data plans and contract length on customer retention
 - Delivered actionable recommendations to reduce churn and enhance retention strategies
 
+#### **Marketing Campaign** - [Marketing Campaign](https://github.com/DipikaJothinathan/Python/tree/main/Marketing%20Campaign)
+- Conducted exploratory data analysis using **Polars** and **Plotly** to assess user engagement, conversion rates, and retention rates
+- Tracked daily user activity to identify trends and behavioral patterns
+- Calculated and analyzed conversion and retention rates to measure marketing effectiveness
+- Identified key factors influencing conversions, such as language preference, to enhance targeting strategies
+- Developed interactive visualizations to present actionable insights for improving user acquisition and retentions
+
 #### **American Football vs Soccer** - [AF vs Soccer](https://github.com/DipikaJothinathan/Tableau/tree/main/American%20Football%20vs%20Soccer)
 - Developed a comparative analytics dashboard using **Tableau** to analyze American Football vs. Soccer trends from 2004 to 2023
 - Performed data cleaning and transformation using Tableau Prep Builder to ensure data accuracy
