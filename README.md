@@ -64,6 +64,12 @@ I am a determined and energetic **Data Analyst** with experience in **SQL, Pytho
 - Evaluated the impact of data plans and contract length on customer retention
 - Delivered actionable recommendations to reduce churn and enhance retention strategies
 
+#### **American Football vs Soccer** - [AF vs Soccer](https://github.com/DipikaJothinathan/Tableau/tree/main/American%20Football%20vs%20Soccer)
+- Developed a comparative analytics dashboard using **Tableau** to analyze American Football vs. Soccer trends from 2004 to 2023
+- Performed data cleaning and transformation using Tableau Prep Builder to ensure data accuracy
+- Designed interactive visualizations to compare game interests over time, by state, and across seasons
+- Leveraged historical data insights to showcase trends in sports popularity across different regions
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### 🎓 Education  
 - **M.S. in Electrical and Computer Engineering** - University of Illinois Chicago  
