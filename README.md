@@ -1,6 +1,6 @@
 ## Hi! I am Dipika Jothinathan  
 
-**May be your team's future Data Analyst 📊 📈**  
+**Data Analyst 📊 📈**  
 
 📍 Palatine, IL  
 📧 How to reach me: **dipikajot@yahoo.com**  
