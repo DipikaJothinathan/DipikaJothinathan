@@ -3,8 +3,8 @@
 **Data Analyst 📊 📈**  
 
 📍 Palatine, IL  
-📧 dipikajot@yahoo.com  
-🤝 [LinkedIn](http://www.linkedin.com/in/dipika-jothinathan)  
+📧 How to reach me: **dipikajot@yahoo.com**  
+🤝 Connect with me on [LinkedIn](http://www.linkedin.com/in/dipika-jothinathan)  
 📉 [Tableau Public](https://public.tableau.com/app/profile/dipika.jothinathan/vizzes)   
 
 ### 👋 About Me  
@@ -16,7 +16,6 @@ I am a determined and energetic **Data Analyst** with experience in **SQL, Pytho
 - 👯 I am looking to collaborate on **data analytics and visualization projects  📊📈**  
 - 🤔 I am looking for help with **resume optimization for ATS 📝**  
 - 💬 Ask me about **Data cleaning, Data visualization, South Indian cuisine 🍛🌶️🥥, culture, and Parenting 👶**  
-- 📧 How to reach me: **dipikajot@yahoo.com**  
 - 😄 Pronouns: **She/Her 👩‍🦰**  
 - ⚡ Fun fact: **I love to cook authentic Tamilian dishes by watching YouTube! Recently, I have been venturing into different types of biryanis 🍚🍽️👩‍🍳.**  
 
