@@ -40,12 +40,12 @@ I am a determined and energetic **Data Analyst** with experience in **SQL, Pytho
 - Managed **data entry and tracking** for attendance and certification
 
 ### 🧑‍💻 Projects
-#### **College Degrees**: Link - [Major success](https://github.com/DipikaJothinathan/R/tree/main/College%20Degrees)
+#### **College Degrees** - [Major success](https://github.com/DipikaJothinathan/R/tree/main/College%20Degrees)
 - K-means clustering using R 
 - Analyzed salary trends across various undergraduate majors, focusing on starting and mid-career earnings
 - Identified the most financially rewarding fields
 
-#### **Customer Churn Analysis**: Link - [Customer churn](https://github.com/DipikaJothinathan/Excel/tree/main/Customer%20Churn)
+#### **Customer Churn Analysis** - [Customer churn](https://github.com/DipikaJothinathan/Excel/tree/main/Customer%20Churn)
 - Conducted an in-depth analysis of churn trends for a telecom company using MS Excel
 - Identified the overall churn rate, with competitor influence as the primary driver
 - Uncovered key demographic insights, highlighting age groups most likely to churn
