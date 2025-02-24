@@ -40,7 +40,7 @@ I am a determined and energetic **Data Analyst** with experience in **SQL, Pytho
 - Managed **data entry and tracking** for attendance and certification
 
 ### 🧑‍💻 Projects
-#### **College Degrees: 
+#### **College Degrees** 
 - K-means clustering using R; Link - [Major success](https://github.com/DipikaJothinathan/R/tree/main/College%20Degrees)
 - Analyzed salary trends across various undergraduate majors, focusing on starting and mid-career earnings
 - Identified the most financially rewarding fields
