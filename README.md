@@ -11,11 +11,11 @@
 ## 👋 About Me  
 I am a determined and energetic **Data Analyst** with experience in **SQL, Python, R, Power BI, Tableau,** and **Excel**. My expertise includes **data manipulation, visualization, and reporting**, with a strong focus on delivering actionable insights to decision-makers.  
 
-## 🚀 What I'm Up To  
-- 🌟 I’m currently working on **enhancing my Power BI and Tableau visualization skills**  
-- 🌱 I’m currently learning **machine learning models**  
-- 👯 I’m looking to collaborate on **data analytics and visualization projects**  
-- 🤔 I’m looking for help with **resume optimization for ATS**  
+## 🚀 What I am Up To  
+- 🌟 I am currently working on **enhancing my Power BI and Tableau visualization skills**  
+- 🌱 I am currently learning **machine learning models**  
+- 👯 I am looking to collaborate on **data analytics and visualization projects**  
+- 🤔 I am looking for help with **resume optimization for ATS**  
 - 💬 Ask me about **Data cleaning, Data visualization, South Indian cuisine, culture, and Parenting**  
 - 📧 How to reach me: **dipikajot@yahoo.com**  
 - 😄 Pronouns: **She/Her**  
@@ -58,4 +58,4 @@ I am a determined and energetic **Data Analyst** with experience in **SQL, Pytho
 ---  
 
 ### 📈 Let's Connect!  
-I'm actively seeking opportunities in **data analysis, business intelligence, and reporting**. Feel free to reach out! 
+I am actively seeking opportunities in **data analysis, business intelligence, and reporting**. Feel free to reach out! 
