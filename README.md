@@ -18,7 +18,7 @@ I am a determined and energetic **Data Analyst** with experience in **SQL, Pytho
 - 💬 Ask me about **Data cleaning, Data visualization, South Indian cuisine 🍛🌶️🥥, culture, and Parenting 👶**  
 - 📧 How to reach me: **dipikajot@yahoo.com**  
 - 😄 Pronouns: **She/Her 👩‍🦰**  
-- ⚡ Fun fact: **I love to cook authentic Tamilian dishes by watching YouTube! Recently, I have been venturing into different types of biryanis 🍚🍛🌶️🍽️🎥👩‍🍳.**  
+- ⚡ Fun fact: **I love to cook authentic Tamilian dishes by watching YouTube! Recently, I have been venturing into different types of biryanis 🍚🍽️👩‍🍳.**  
 
 ## 🛠️ Skills  
 - **💾 Databases:** Oracle, Knack, MySQL  
