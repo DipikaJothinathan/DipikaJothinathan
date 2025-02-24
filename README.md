@@ -1,4 +1,4 @@
-## Dipika Jothinathan  
+## Hi! I am Dipika Jothinathan  
 
 **Data Analyst 📊 📈**  
 
