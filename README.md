@@ -1,4 +1,4 @@
-# Dipika Jothinathan  
+## Dipika Jothinathan  
 
 **Data Analyst 📊 📈**  
 
