@@ -6,11 +6,9 @@
 📧 How to reach me: **dipikajot@yahoo.com**  
 🤝 Connect with me on [LinkedIn](http://www.linkedin.com/in/dipika-jothinathan)  
 📉 [Tableau Public](https://public.tableau.com/app/profile/dipika.jothinathan/vizzes)   
----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### 👋 About Me  
 I am a determined and energetic **Data Analyst** with experience in **SQL, Python, R, Power BI, Tableau,** and **Excel**. My expertise includes **data manipulation, visualization, and reporting**, with a strong focus on delivering actionable insights to decision-makers.  
----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### 🚀 What I am Up To  
 - 🌟 I am currently working on **expanding my expertise in Machine Learning models 🤖💡**  
