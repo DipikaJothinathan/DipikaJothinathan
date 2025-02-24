@@ -30,8 +30,8 @@ I am a determined and energetic **Data Analyst** with experience in **SQL, Pytho
 ### 📊 Work Experience  
 #### **Data Analyst (Apr 2024 - Jul 2024)**  
 **Schaumburg Market Place - Schaumburg, IL**  
-- Created **interactive dashboard** in Tableau to analyze student enrollment trends [Tableau Dashboard](https://public.tableau.com/app/profile/dipika.jothinathan/viz/InfotekguideDashboard_750_550/Dashboard)
-- Developed **Knack database apps** with user-role-based access and views [SMP Website](https://www.schaumburgmarketplace.net/)  
+- Created **interactive dashboard** in Tableau to analyze student enrollment trends; Link - [Tableau Dashboard](https://public.tableau.com/app/profile/dipika.jothinathan/viz/InfotekguideDashboard_750_550/Dashboard)
+- Developed **Knack database apps** with user-role-based access and views; Link -  [SMP Website](https://www.schaumburgmarketplace.net/)  
 - Automated data pipelines using **Python & knackpy** for transformation and integration  
 - Built **Power BI dashboards** with KPIs, custom tooltips, and DAX functions  
 - Led a team of interns in **data analysis & visualization projects** using SQL, R, and Power BI   
@@ -41,7 +41,7 @@ I am a determined and energetic **Data Analyst** with experience in **SQL, Pytho
 
 ### 🧑‍💻 Projects
 #### **College Degrees: 
-- K-means clustering using R [Major success](https://github.com/DipikaJothinathan/R/tree/main/College%20Degrees)
+- K-means clustering using R; Link - [Major success](https://github.com/DipikaJothinathan/R/tree/main/College%20Degrees)
 - Analyzed salary trends across various undergraduate majors, focusing on starting and mid-career earnings
 - Identified the most financially rewarding fields
 
