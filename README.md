@@ -77,7 +77,7 @@ I am a determined and energetic **Data Analyst** with experience in **SQL, Pytho
 - Designed interactive visualizations to compare game interests over time, by state, and across seasons
 - Leveraged historical data insights to showcase trends in sports popularity across different regions
 
-#### **World's Oldest Businesses** - [Oldest Business](https://github.com/DipikaJothinathan/SQL/tree/main/Oldest%20Businesses)
+#### **Patterns of Endurance: Analyzing the World’s Oldest Businesses** - [Oldest Business](https://github.com/DipikaJothinathan/SQL/tree/main/Oldest%20Businesses)
 - Analyzed characteristics enabling businesses to endure over long periods by uncovering patterns in the oldest businesses using **SQL**
 - Identified the oldest businesses on each continent and examined gaps where countries lack historical business data
 - Investigated business categories best suited for longevity using Exploratory Data Analysis
