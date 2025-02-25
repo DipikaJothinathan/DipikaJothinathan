@@ -71,7 +71,7 @@ I am a determined and energetic **Data Analyst** with experience in **SQL, Pytho
 - Identified key factors influencing conversions, such as language preference, to enhance targeting strategies
 - Developed interactive visualizations to present actionable insights for improving user acquisition and retentions
 
-#### **American Football vs Soccer** - [AF vs Soccer](https://github.com/DipikaJothinathan/Tableau/tree/main/American%20Football%20vs%20Soccer)
+#### **Sports Popularity Trends: American Football vs. Soccer (2004-2023)** - [AF vs Soccer](https://github.com/DipikaJothinathan/Tableau/tree/main/American%20Football%20vs%20Soccer)
 - Developed a comparative analytics dashboard using **Tableau** to analyze American Football vs. Soccer trends from 2004 to 2023
 - Performed data cleaning and transformation using Tableau Prep Builder to ensure data accuracy
 - Designed interactive visualizations to compare game interests over time, by state, and across seasons
