@@ -45,12 +45,12 @@ I am a determined and energetic **Data Analyst** with experience in **SQL, Pytho
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### 🧑‍💻 Projects
-#### **College Degrees** - [Major success](https://github.com/DipikaJothinathan/R/tree/main/College%20Degrees)
+#### **College Degrees with Best Financial Success** - [Major success](https://github.com/DipikaJothinathan/R/tree/main/College%20Degrees)
 - K-means clustering using **R** 
 - Analyzed salary trends across various undergraduate majors, focusing on starting and mid-career earnings
 - Identified the most financially rewarding fields
 
-#### **Bank Marketing Campaign** - [Bank Marketing](https://github.com/DipikaJothinathan/PowerBI/tree/main/Bank%20Marketing)
+#### **Power BI Analysis for Bank Marketing Campaign Effectiveness** - [Bank Marketing](https://github.com/DipikaJothinathan/PowerBI/tree/main/Bank%20Marketing)
 - Developed a **Power BI** dashboard to analyze banking marketing campaign performance
 - Integrated and transformed data using Power Query and DAX for insights on client demographics
 - Analyzed campaign success rates and the impact of loans, credit defaults, and previous campaigns
@@ -64,7 +64,7 @@ I am a determined and energetic **Data Analyst** with experience in **SQL, Pytho
 - Evaluated the impact of data plans and contract length on customer retention
 - Delivered actionable recommendations to reduce churn and enhance retention strategies
 
-#### **Marketing Campaign** - [Marketing Campaign](https://github.com/DipikaJothinathan/Python/tree/main/Marketing%20Campaign)
+#### **Optimizing Marketing Campaigns through Data-Driven Insights** - [Marketing Campaign](https://github.com/DipikaJothinathan/Python/tree/main/Marketing%20Campaign)
 - Conducted exploratory data analysis in **Python** using **Polars** and **Plotly** to assess user engagement, conversion rates, and retention rates
 - Tracked daily user activity to identify trends and behavioral patterns
 - Calculated and analyzed conversion and retention rates to measure marketing effectiveness
