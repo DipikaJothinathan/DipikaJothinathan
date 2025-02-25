@@ -57,7 +57,7 @@ I am a determined and energetic **Data Analyst** with experience in **SQL, Pytho
 - Examined contact strategies by evaluating call frequency, method, and timing on customer responses
 - Visualized interest index trends over time and by state for strategic decision-making
 
-#### **Customer Churn Analysis** - [Customer churn](https://github.com/DipikaJothinathan/Excel/tree/main/Customer%20Churn)
+#### **Telecom Churn Trends: Insights and Retention Strategies** - [Customer churn](https://github.com/DipikaJothinathan/Excel/tree/main/Customer%20Churn)
 - Conducted an in-depth analysis of churn trends for a telecom company using **MS Excel**
 - Identified the overall churn rate, with competitor influence as the primary driver
 - Uncovered key demographic insights, highlighting age groups most likely to churn
