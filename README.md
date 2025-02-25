@@ -71,8 +71,8 @@ I am a determined and energetic **Data Analyst** with experience in **SQL, Pytho
 - Investigated business categories best suited for longevity using Exploratory Data Analysis
 
 #### **Sports Popularity Trends: American Football vs. Soccer (2004-2023)** - [AF vs Soccer](https://github.com/DipikaJothinathan/Tableau/tree/main/American%20Football%20vs%20Soccer)
-- Developed a Tableau dashboard to compare American Football and Soccer trends from 2004 to 2023
-- Cleaned and transformed data using Tableau Prep Builder to ensure accuracy
+- Developed a **Tableau** dashboard to compare American Football and Soccer trends from 2004 to 2023
+- Cleaned and transformed data using **Tableau Prep Builder** to ensure accuracy
 - Created interactive visualizations to compare game interests over time, by state, and across seasons
 - Leveraged historical data to showcase trends in sports popularity across regions
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
