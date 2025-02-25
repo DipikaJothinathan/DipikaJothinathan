@@ -34,14 +34,15 @@ I am a determined and energetic **Data Analyst** with experience in **SQL, Pytho
 ### 📊 Work Experience  
 #### **Data Analyst (Apr 2024 - Jul 2024)**  
 **Schaumburg Market Place - Schaumburg, IL**  
-- Created **interactive dashboard** in Tableau to analyze student enrollment trends; Link - [Tableau Dashboard](https://public.tableau.com/app/profile/dipika.jothinathan/viz/InfotekguideDashboard_750_550/Dashboard)
-- Developed **Knack database apps** with user-role-based access and views; Link -  [SMP Website](https://www.schaumburgmarketplace.net/)  
-- Automated data pipelines using **Python & knackpy** for transformation and integration  
-- Built **Power BI dashboards** with KPIs, custom tooltips, and DAX functions  
-- Led a team of interns in **data analysis & visualization projects** using SQL, R, and Power BI   
-- Developed **engaging web pages** using Wix  
-- Created **promotional content** using Canva  
-- Managed **data entry and tracking** for attendance and certification
+-	Created interactive dashboards in Tableau to analyze student enrollment trends for a training provider; Link - [Infotekguide](https://public.tableau.com/app/profile/dipika.jothinathan/viz/InfotekguideDashboard_750_550/Dashboard)
+-	Developed Knack database applications for Schaumburg Market Place with user-role-based access & views; Link -  [SMP Website](https://www.schaumburgmarketplace.net/)  
+-	Automated data pipelines for IT Expert Student Management System using knackpy, pandas and Power BI for ETL process and data visualization
+-	Imported live data from Knack into Power BI, performed transformations with Power Query, applied DAX queries, and developed interactive dashboards with KPIs, custom tooltips, slicers, and personalized color and theme formats
+-	Built data models by mapping relationship between tables in SqlDBM
+-	Used advanced Microsoft Excel functionalities including Xlookups, Pivot Table, Pivot Charts, Solver and Data Analysis tools to perform in-depth data analysis
+-	Led a team of interns through Agile sprints on Trello, overseeing analysis and visualization projects and provided feedback during daily scrum meetings to ensure progress, collaboration and high-quality output
+-	Assisted peers with debugging Python and R scripts, and helped set up development environments
+-	Developed engaging webpages, promotional videos and flyers for Schaumburg Market Place using Wix and Canva
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### 🧑‍💻 Projects
