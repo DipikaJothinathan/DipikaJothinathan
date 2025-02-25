@@ -46,42 +46,35 @@ I am a determined and energetic **Data Analyst** with experience in **SQL, Pytho
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### 🧑‍💻 Projects
 #### **College Degrees with Best Financial Success** - [Major success](https://github.com/DipikaJothinathan/R/tree/main/College%20Degrees)
-- K-means clustering using **R** 
-- Analyzed salary trends across various undergraduate majors, focusing on starting and mid-career earnings
-- Identified the most financially rewarding fields
-
-#### **Power BI Analysis for Bank Marketing Campaign Effectiveness** - [Bank Marketing](https://github.com/DipikaJothinathan/PowerBI/tree/main/Bank%20Marketing)
-- Developed a **Power BI** dashboard to analyze banking marketing campaign performance
-- Integrated and transformed data using Power Query and DAX for insights on client demographics
-- Analyzed campaign success rates and the impact of loans, credit defaults, and previous campaigns
-- Examined contact strategies by evaluating call frequency, method, and timing on customer responses
-- Visualized interest index trends over time and by state for strategic decision-making
-
-#### **Telecom Churn Trends: Insights and Retention Strategies** - [Customer churn](https://github.com/DipikaJothinathan/Excel/tree/main/Customer%20Churn)
-- Conducted an in-depth analysis of churn trends for a telecom company using **MS Excel**
-- Identified the overall churn rate, with competitor influence as the primary driver
-- Uncovered key demographic insights, highlighting age groups most likely to churn
-- Evaluated the impact of data plans and contract length on customer retention
-- Delivered actionable recommendations to reduce churn and enhance retention strategies
+-	Conducted K-means clustering analysis in **R** to explore salary trends for various undergraduate majors
+-	Analyzed starting and mid-career earnings data to uncover patterns and financial trajectories
+-	Identified and categorized the most financially rewarding fields, offering data-driven insights to guide career decisions for students
 
 #### **Optimizing Marketing Campaigns through Data-Driven Insights** - [Marketing Campaign](https://github.com/DipikaJothinathan/Python/tree/main/Marketing%20Campaign)
-- Conducted exploratory data analysis in **Python** using **Polars** and **Plotly** to assess user engagement, conversion rates, and retention rates
-- Tracked daily user activity to identify trends and behavioral patterns
-- Calculated and analyzed conversion and retention rates to measure marketing effectiveness
-- Identified key factors influencing conversions, such as language preference, to enhance targeting strategies
-- Developed interactive visualizations to present actionable insights for improving user acquisition and retentions
+- Conducted exploratory data analysis in **Python** with **Polars** and **Plotly** to assess user engagement, conversion, and retention rates
+- Identified key factors influencing conversions to enhance targeting strategies
+- Developed interactive visualizations to present actionable insights for improving user acquisition and retention
 
-#### **Sports Popularity Trends: American Football vs. Soccer (2004-2023)** - [AF vs Soccer](https://github.com/DipikaJothinathan/Tableau/tree/main/American%20Football%20vs%20Soccer)
-- Developed a comparative analytics dashboard using **Tableau** to analyze American Football vs. Soccer trends from 2004 to 2023
-- Performed data cleaning and transformation using Tableau Prep Builder to ensure data accuracy
-- Designed interactive visualizations to compare game interests over time, by state, and across seasons
-- Leveraged historical data insights to showcase trends in sports popularity across different regions
+#### **Power BI Analysis for Bank Marketing Campaign Effectiveness** - [Bank Marketing](https://github.com/DipikaJothinathan/PowerBI/tree/main/Bank%20Marketing)
+- Developed a **Power BI** dashboard to analyze banking marketing campaign performance and client demographics using Power Query and DAX
+- Analyzed campaign success, including the impact of loans, credit defaults, and previous campaigns, and examined contact strategies on customer responses
+- Visualized interest index trends over time and by state to support strategic decision-making
+
+#### **Telecom Churn Trends: Insights and Retention Strategies** - [Customer churn](https://github.com/DipikaJothinathan/Excel/tree/main/Customer%20Churn)
+- Analyzed churn trends for a telecom company using **MS Excel**, identifying the overall churn rate and competitor influence as the primary driver
+- Uncovered key demographic insights, highlighting age groups most likely to churn, and evaluated the impact of data plans and contract length on retention
+- Delivered actionable recommendations to reduce churn and enhance retention strategies
 
 #### **Patterns of Endurance: Analyzing the World’s Oldest Businesses** - [Oldest Business](https://github.com/DipikaJothinathan/SQL/tree/main/Oldest%20Businesses)
 - Analyzed characteristics enabling businesses to endure over long periods by uncovering patterns in the oldest businesses using **SQL**
 - Identified the oldest businesses on each continent and examined gaps where countries lack historical business data
 - Investigated business categories best suited for longevity using Exploratory Data Analysis
 
+#### **Sports Popularity Trends: American Football vs. Soccer (2004-2023)** - [AF vs Soccer](https://github.com/DipikaJothinathan/Tableau/tree/main/American%20Football%20vs%20Soccer)
+- Developed a Tableau dashboard to compare American Football and Soccer trends from 2004 to 2023
+- Cleaned and transformed data using Tableau Prep Builder to ensure accuracy
+- Created interactive visualizations to compare game interests over time, by state, and across seasons
+- Leveraged historical data to showcase trends in sports popularity across regions
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### 🎓 Education  
 - **M.S. in Electrical and Computer Engineering** - University of Illinois Chicago  
