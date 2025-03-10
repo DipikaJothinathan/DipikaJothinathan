@@ -29,7 +29,7 @@ I am a determined and energetic **Data Analyst** with experience in **SQL, Pytho
   
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### 📊 Work Experience  
-#### **Data Analyst (Oct 2023 - Jul 2024)**  
+#### **Data Analyst (Apr 2024 - Jul 2024)**  
 **Schaumburg Market Place - Schaumburg, IL**  
 -	Created interactive dashboards in **Tableau** to analyze student enrollment trends for a training provider; Link - [Infotekguide](https://public.tableau.com/app/profile/dipika.jothinathan/viz/InfotekguideDashboard_750_550/Dashboard)
 -	Automated data pipelines for IT Expert Student Management System using **Knack, pandas** and **Power BI** for **ETL** process and data **visualization** saving 10+ hours per month
