@@ -16,19 +16,16 @@ I am a determined and energetic **Data Analyst** with experience in **SQL, Pytho
 - 🌟 I am currently working on **expanding my expertise in Machine Learning models 🤖💡**  
 - 🌱 I am currently learning about **supervised, unsupervised models and Deep Learning on Datacamp 📚🔍🧠💻⚡**  
 - 👯 I am looking to collaborate on **data analytics and visualization projects  📊📈**  
-- 🤔 I am looking for help with **resume optimization for ATS 📝**  
-- 💬 Ask me about **Data cleaning, Data visualization, South Indian cuisine 🍛🌶️🥥, culture, and Parenting 👶**  
 - 😄 Pronouns: **She/Her 👩‍🦰**  
-- ⚡ Fun fact: **I love to cook authentic Tamilian dishes by watching YouTube! Recently, I have been venturing into different types of biryanis 🍚🍽️👩‍🍳.**
   
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### 🛠️ Skills  
 - **💾 Databases:** Oracle, Knack, MySQL  
 - **📈 Visualization Tools:** Power BI, Tableau, MATLAB  
-- **🐍 Python:** pandas, polars, numpy, matplotlib, plotly, seaborn, scikit-learn, knackpy  
+- **🐍 Python:** pandas, polars, numpy, matplotlib, plotly, seaborn, scikit-learn, scipy, knackpy  
 - **🔢 R:** dplyr, tidyr, ggplot2, DescTools, factoextra 
-- **🔲Excel:** Pivot tables, charts, Solver, and Data Analysis tools  
-- **🤖Machine Learning:** Regression, Clustering, Forecasting
+- **🔲Excel:** Pivot tables, charts, Solver, Data Analysis, VBA
+- **🤖Machine Learning:** Supervised learning, Unsupervised learning
   
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### 📊 Work Experience  
@@ -82,7 +79,7 @@ I am a determined and energetic **Data Analyst** with experience in **SQL, Pytho
 - **B.E. (Hons) in Electrical and Electronics Engineering** - BITS Pilani, India  
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
-### 📝 Certifications  
+### 📝 Certificates
 - **Python Data Fundamentals** – DataCamp (Aug 2024)  
 - **Tableau Fundamentals** – DataCamp (Jul 2024)  
 - **SQL Basic** – HackerRank (May 2024)  
