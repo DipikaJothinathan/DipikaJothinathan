@@ -68,7 +68,7 @@ I am a determined and energetic **Data Analyst** with experience in **SQL, Pytho
 - Identified the oldest businesses on each continent and examined gaps where countries lack historical business data
 - Investigated business categories best suited for longevity using Exploratory Data Analysis
 
-#### **Sports Popularity Trends: American Football vs. Soccer (2004-2023)** - [AF vs Soccer](https://public.tableau.com/app/profile/dipika.jothinathan/viz/AmericanFootballvsSoccer/AFvsSoccer)
+#### **Sports Popularity Trends: American Football vs. Soccer (2004-2023)** - [AF vs Soccer](https://public.tableau.com/app/profile/dipika.jothinathan/viz/AFvsSoccerStory/AFvsSoccer)
 - Developed a **Tableau** dashboard to compare American Football and Soccer trends from 2004 to 2023
 - Cleaned and transformed data using **Tableau Prep Builder** to ensure accuracy
 - Created interactive visualizations to compare game interests over time, by state, and across seasons
