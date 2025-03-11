@@ -31,7 +31,7 @@ I am a determined and energetic **Data Analyst** with experience in **SQL, Pytho
 ### 📊 Work Experience  
 #### **Data Analyst (Apr 2024 - Jul 2024)**  
 **Schaumburg Market Place - Schaumburg, IL**  
--	Created interactive dashboards in **Tableau** to analyze student enrollment trends for a training provider; Link - [Infotekguide](https://public.tableau.com/app/profile/dipika.jothinathan/viz/InfotekguideDashboard_750_550/Dashboard)
+-	Created interactive dashboards in **Tableau** to analyze student enrollment trends for a training provider; Link - [Infotekguide](https://public.tableau.com/app/profile/dipika.jothinathan/viz/Infotekguide/Dashboard)
 -	Automated data pipelines for IT Expert Student Management System using **Knack, pandas** and **Power BI** for **ETL** process and data **visualization** saving 10+ hours per month
 -	Created a student Touchpoint program and identified potential students for upcoming course batches using Power BI - connected to live Knack data, performed **Power Query** transformations, applied **DAX** queries, and created interactive **dashboards** with **KPI**s, slicers, color themes for insightful analysis
 -	Developed Knack **database** applications for Schaumburg Market Place with user-role-based access & views; Link -  [SMP Website](https://www.schaumburgmarketplace.net/) 
