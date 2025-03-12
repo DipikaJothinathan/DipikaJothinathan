@@ -49,7 +49,7 @@ I am a determined and energetic **Data Analyst** with experience in **SQL, Pytho
 -	Identified and categorized the most financially rewarding fields, offering data-driven insights to guide career decisions for students
 
 #### **Optimizing Marketing Campaigns through Data-Driven Insights** - [Marketing Campaign](https://github.com/DipikaJothinathan/Python/tree/main/Marketing%20Campaign)
-- Conducted exploratory data analysis in **Python** with **Polars** and **Plotly** to assess user engagement, conversion, and retention rates
+- Conducted exploratory data analysis in **Python** with **pandas, numpy** and **matplotlib** to assess user engagement, conversion, and retention rates
 - Identified key factors influencing conversions to enhance targeting strategies
 - Developed interactive visualizations to present actionable insights for improving user acquisition and retention
 
