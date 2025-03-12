@@ -46,9 +46,9 @@
 - College Degrees with Best Financial Success using **R** - [Major success](https://github.com/DipikaJothinathan/R/tree/main/College%20Degrees)
 - Databel-Telecom Churn Trends: Insights and Retention Strategies in **Excel**- [Customer churn](https://github.com/DipikaJothinathan/Excel/tree/main/Customer%20Churn)
 - HR Attrition & Workforce Demographics Analytics for Atlas Labs in **Power BI** - [HR Analytics]()
-- Optimizing Marketing Campaigns through Data-Driven Insights in **Python - pandas, numpy, matplotlib**- [Marketing Campaign](https://github.com/DipikaJothinathan/Python/tree/main/Marketing%20Campaign)
+- Optimizing Marketing Campaigns through Data-Driven Insights using **Python**- [Marketing Campaign](https://github.com/DipikaJothinathan/Python/tree/main/Marketing%20Campaign)
 - **Power BI** Analysis for Bank Marketing Campaign Effectiveness - [Bank Marketing](https://github.com/DipikaJothinathan/PowerBI/tree/main/Bank%20Marketing)
-- Patterns of Endurance: Analyzing the World’s Oldest Businesses in **SQL** - [Oldest Business](https://github.com/DipikaJothinathan/SQL/tree/main/Oldest%20Businesses)
+- Patterns of Endurance: Analyzing the World’s Oldest Businesses using **SQL** - [Oldest Business](https://github.com/DipikaJothinathan/SQL/tree/main/Oldest%20Businesses)
 - Sports Popularity Trends: American Football vs. Soccer (2004-2023) in **Tableau** - [AF vs Soccer](https://public.tableau.com/app/profile/dipika.jothinathan/viz/AFvsSoccerStory/AFvsSoccer)
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
