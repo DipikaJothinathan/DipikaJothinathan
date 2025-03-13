@@ -47,7 +47,7 @@
 - Databel-Telecom Churn Trends: Insights and Retention Strategies in **Excel**- [Customer churn](https://github.com/DipikaJothinathan/Excel/blob/main/Customer%20Churn/Databel_presentation.pdf)
 - HR Attrition & Demographics Analysis for Atlas Labs in **Power BI** - [HR Analysis](https://app.powerbi.com/view?r=eyJrIjoiMTA5ZmU2Y2ItNTBiNC00NzFhLTg3ZGQtZWEzYmZjOTExZjA4IiwidCI6IjRmMWI1YjhhLWZiNzUtNDhlZC1hMzYwLWFkMmRkM2E0MGIyYSJ9)
 - Inventory Analysis and Optimization for Acropolis Retail Inc. in **Tableau** - [Inventory Analysis](https://public.tableau.com/app/profile/dipika.jothinathan/viz/InventoryAnalysis_17417899032240/InventoryAnalysis)
-- Optimizing Marketing Campaigns through Data-Driven Insights using **Python**- [Marketing Campaign](https://github.com/DipikaJothinathan/Python/tree/main/Marketing%20Campaign)
+- Optimizing Marketing Campaigns through Data-Driven Insights using **Python**- [Marketing Campaign](https://github.com/DipikaJothinathan/Python-pandas/blob/main/Marketing%20Campaign/code_marketing.ipynb)
 - **Power BI** Analysis for Bank Marketing Campaign Effectiveness - [Bank Marketing](https://app.powerbi.com/view?r=eyJrIjoiNjcwZWMwOGMtZjA4Ni00ZDJlLWI1OWEtYWU4ZWRjNWExYWY0IiwidCI6IjRmMWI1YjhhLWZiNzUtNDhlZC1hMzYwLWFkMmRkM2E0MGIyYSJ9)
 - Patterns of Endurance: Analyzing the World’s Oldest Businesses using **SQL** - [Oldest Business](https://github.com/DipikaJothinathan/SQL/tree/main/Oldest%20Businesses)
 - Sports Popularity Trends: American Football vs. Soccer (2004-2023) in **Tableau** - [AF vs Soccer](https://public.tableau.com/app/profile/dipika.jothinathan/viz/AFvsSoccerStory/AFvsSoccer)
