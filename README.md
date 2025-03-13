@@ -43,7 +43,7 @@ hi### Hi! I am Dipika Jothinathan
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### 🧑‍💻 Projects
-- College Degrees with Best Financial Success using **R** - [Major success](https://github.com/DipikaJothinathan/R/tree/main/College%20Degrees)
+- College Degrees with Best Financial Success using **R** - [Major success](https://github.com/DipikaJothinathan/R/blob/main/College%20Degrees/Presentation.pdf)
 - Databel-Telecom Churn Trends: Insights and Retention Strategies in **Excel**- [Customer churn](https://github.com/DipikaJothinathan/Excel/tree/main/Customer%20Churn)
 - HR Attrition & Workforce Demographics Analysis for Atlas Labs in **Power BI** - [HR Analysis](https://app.powerbi.com/view?r=eyJrIjoiMTA5ZmU2Y2ItNTBiNC00NzFhLTg3ZGQtZWEzYmZjOTExZjA4IiwidCI6IjRmMWI1YjhhLWZiNzUtNDhlZC1hMzYwLWFkMmRkM2E0MGIyYSJ9)
 - Optimizing Marketing Campaigns through Data-Driven Insights using **Python**- [Marketing Campaign](https://github.com/DipikaJothinathan/Python/tree/main/Marketing%20Campaign)
