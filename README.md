@@ -1,4 +1,4 @@
-### Hi! I am Dipika Jothinathan  
+hi### Hi! I am Dipika Jothinathan  
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 **Data Analyst 📊 📈**  
@@ -45,7 +45,7 @@
 ### 🧑‍💻 Projects
 - College Degrees with Best Financial Success using **R** - [Major success](https://github.com/DipikaJothinathan/R/tree/main/College%20Degrees)
 - Databel-Telecom Churn Trends: Insights and Retention Strategies in **Excel**- [Customer churn](https://github.com/DipikaJothinathan/Excel/tree/main/Customer%20Churn)
-- HR Attrition & Workforce Demographics Analysis for Atlas Labs in **Power BI** - [HR Analysis](https://github.com/DipikaJothinathan/PowerBI/tree/main/HR%20Analysis)
+- HR Attrition & Workforce Demographics Analysis for Atlas Labs in **Power BI** - [HR Analysis](https://app.powerbi.com/view?r=eyJrIjoiMTA5ZmU2Y2ItNTBiNC00NzFhLTg3ZGQtZWEzYmZjOTExZjA4IiwidCI6IjRmMWI1YjhhLWZiNzUtNDhlZC1hMzYwLWFkMmRkM2E0MGIyYSJ9)
 - Optimizing Marketing Campaigns through Data-Driven Insights using **Python**- [Marketing Campaign](https://github.com/DipikaJothinathan/Python/tree/main/Marketing%20Campaign)
 - **Power BI** Analysis for Bank Marketing Campaign Effectiveness - [Bank Marketing](https://app.powerbi.com/view?r=eyJrIjoiNjcwZWMwOGMtZjA4Ni00ZDJlLWI1OWEtYWU4ZWRjNWExYWY0IiwidCI6IjRmMWI1YjhhLWZiNzUtNDhlZC1hMzYwLWFkMmRkM2E0MGIyYSJ9)
 - Patterns of Endurance: Analyzing the World’s Oldest Businesses using **SQL** - [Oldest Business](https://github.com/DipikaJothinathan/SQL/tree/main/Oldest%20Businesses)
