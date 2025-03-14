@@ -48,6 +48,7 @@
 - HR Attrition & Demographics Analysis for Atlas Labs in **Power BI** - [HR Analysis](https://app.powerbi.com/view?r=eyJrIjoiMTA5ZmU2Y2ItNTBiNC00NzFhLTg3ZGQtZWEzYmZjOTExZjA4IiwidCI6IjRmMWI1YjhhLWZiNzUtNDhlZC1hMzYwLWFkMmRkM2E0MGIyYSJ9)
 - Inventory Analysis and Optimization for Acropolis Retail Inc. in **Tableau** - [Inventory Analysis](https://public.tableau.com/app/profile/dipika.jothinathan/viz/InventoryAnalysis_17417899032240/InventoryAnalysis)
 - Optimizing Marketing Campaigns through Data-Driven Insights using **Python**- [Marketing Campaign](https://github.com/DipikaJothinathan/Python-pandas/blob/main/Marketing%20Campaign/marketing.ipynb)
+- Predicting mortality of heart failure patients using Python - [Heart Failure](https://github.com/DipikaJothinathan/Python-ML/blob/main/Heart%20Failure/heart_py.ipynb)
 - **Power BI** Analysis for Bank Marketing Campaign Effectiveness - [Bank Marketing](https://app.powerbi.com/view?r=eyJrIjoiNjcwZWMwOGMtZjA4Ni00ZDJlLWI1OWEtYWU4ZWRjNWExYWY0IiwidCI6IjRmMWI1YjhhLWZiNzUtNDhlZC1hMzYwLWFkMmRkM2E0MGIyYSJ9)
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
