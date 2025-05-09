@@ -1,7 +1,7 @@
 ### Hi! I am Dipika Jothinathan  
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
-### **Data Analyst 📊 📈**  
+### **Data Analytics & Machine Learning 📊 📈**  
 📍 Palatine, IL  
 📧 How to reach me: **dipikajot@yahoo.com**  
 🤝 Connect with me on [LinkedIn](http://www.linkedin.com/in/dipika-jothinathan)  
@@ -22,10 +22,10 @@
 ### 🛠️ Skills  
 - **💾 Databases:** Oracle, Knack, MySQL  
 - **📈 Visualization Tools:** Power BI, Tableau, MATLAB  
-- **🐍 Python:** pandas, polars, numpy, matplotlib, plotly, seaborn, scikit-learn, scipy, tensorflow, keras, knackpy  
+- **🐍 Python:** pandas, polars, numpy, matplotlib, plotly, seaborn, scikit-learn, scipy, tensorflow, keras, pytorch, knackpy  
 - **🔢 R:** dplyr, tidyr, ggplot2, DescTools, factoextra 
 - **🔲Excel:** Pivot tables, charts, Solver, Data Analysis, VBA
-- **🤖Machine Learning:** Supervised learning, Unsupervised learning
+- **🤖Machine Learning & Deep Learning:** Classification, Regression, Neural Networks, Decision Trees
   
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### 📊 Work Experience  
