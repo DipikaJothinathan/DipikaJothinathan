@@ -47,8 +47,8 @@
 - Databel-Telecom Churn Trends: Insights and Retention Strategies in **Excel**- [Customer churn](https://github.com/DipikaJothinathan/EDA-Data_Viz/blob/main/Excel/Customer%20Churn/Databel_presentation.pdf)
 - HR Attrition & Demographics Analysis for Atlas Labs in **Power BI** - [HR Analysis](https://app.powerbi.com/view?r=eyJrIjoiMTA5ZmU2Y2ItNTBiNC00NzFhLTg3ZGQtZWEzYmZjOTExZjA4IiwidCI6IjRmMWI1YjhhLWZiNzUtNDhlZC1hMzYwLWFkMmRkM2E0MGIyYSJ9)
 - Inventory Analysis and Optimization for Acropolis Retail Inc. in **Tableau** - [Inventory Analysis](https://public.tableau.com/app/profile/dipika.jothinathan/viz/InventoryAnalysis_17417899032240/InventoryAnalysis)
-- Marketing campaign analysis using **Python** - [Marketing Campaign](https://github.com/DipikaJothinathan/Python-pandas/blob/main/Marketing%20Campaign/marketing.ipynb)
-- Predicting Mortality of Heart Failure Patients using **Python** - [Heart Failure](https://github.com/DipikaJothinathan/Python-ML/blob/main/Heart%20Failure/heart_py.ipynb)
+- Marketing campaign analysis using **Python** - [Marketing Campaign](https://github.com/DipikaJothinathan/EDA-Data_Viz/blob/main/Python/Marketing%20Campaign/marketing.ipynb)
+- Predicting Mortality of Heart Failure Patients using **Python** - [Heart Failure](https://github.com/DipikaJothinathan/ML/blob/main/Heart%20Failure/heart_py.ipynb)
 - **Power BI** Analysis for Bank Marketing Campaign Effectiveness - [Bank Marketing](https://app.powerbi.com/view?r=eyJrIjoiNjcwZWMwOGMtZjA4Ni00ZDJlLWI1OWEtYWU4ZWRjNWExYWY0IiwidCI6IjRmMWI1YjhhLWZiNzUtNDhlZC1hMzYwLWFkMmRkM2E0MGIyYSJ9)
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
