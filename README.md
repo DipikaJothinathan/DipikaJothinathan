@@ -66,6 +66,6 @@ With a strong engineering foundation, my core focus is applying machine learning
 
 ### 📫 Connect with Me
 
-- 💼 **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile) <!-- Update this link with your username -->
+- 💼 **LinkedIn:** [linkedin.com/in/dipika-jothinathan](https://linkedin.com/in/dipika-jothinathan)
 - 📧 **Email:** dipikajot@yahoo.com
 - 📍 **Location:** Palatine, IL
