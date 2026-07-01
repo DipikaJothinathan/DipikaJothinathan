@@ -1,7 +1,7 @@
 ### Hi! I am Dipika Jothinathan  
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
-### **Machine Learning & Data Analytics📊 📈**  
+### **Machine Learning & Data Science📊 📈**  
 📍 Palatine, IL  
 📧 How to reach me: **dipikajot@yahoo.com**  
 🤝 Connect with me on [LinkedIn](http://www.linkedin.com/in/dipika-jothinathan)  
